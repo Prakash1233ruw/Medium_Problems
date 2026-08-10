@@ -2,7 +2,7 @@ package Problems;
 
 public class p4 {
  public static void main(String[] args) {
-	int a[]=  {34, 88, 423, 121, 2382, 10};
+	int a[]=  {33, 88, 423, 121, 2382, 10};
 	int count =0;
 	int count2=0;
 	for(int i=0;i<a.length;i++) {
